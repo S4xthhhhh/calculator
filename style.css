@@ -55,3 +55,13 @@ button {
     background-color: #424242;
     color: #BCAAA4;
 }
+footer{
+    position:absolute;
+    bottom: 0;
+    color: white;
+    font-size: 15px;
+}
+footer a{
+    text-decoration: none;
+    color: lightblue;
+}
